@@ -9,11 +9,10 @@ After installing packages simply run this:
 
 If you wish to tun this code simple run this command to build image:
 
-	docker build -t server .
+	docker-compose build
 
 
 If you wish to run the code simple run:
 
-	docker run -p 8090:8080 server
-
+	docker-compose up
 
