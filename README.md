@@ -1,4 +1,4 @@
-# Golang MVC-CRUD
+# Golang Divide Assignment
 
 After installing packages simply run this:
 
