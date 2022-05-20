@@ -26,3 +26,12 @@ And the payload should be:
 	"a":3,
 	"b":9
 	}
+
+Run the code in CURL use:
+
+	curl --location --request POST 'localhost:8080/api/divide' \
+	--header 'Content-Type: application/json' \
+	--data-raw '{
+	"a":1,
+	"b":1
+	}'

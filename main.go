@@ -1,9 +1,7 @@
 package main
 
 import (
-	"DT/Router"
-
-	_ "github.com/jinzhu/gorm/dialects/sqlite"
+	"TSLC/Router"
 )
 
 func main() {

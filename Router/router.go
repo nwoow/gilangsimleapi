@@ -1,7 +1,7 @@
 package Router
 
 import (
-	controllers "DT/Controllers"
+	controllers "TSLC/Controllers"
 
 	"github.com/gin-gonic/gin"
 )
