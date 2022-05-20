@@ -16,3 +16,13 @@ If you wish to run the code simple run:
 
 	docker-compose up
 
+To access the endpoint use the URL:
+
+	0.0.0.0:8080/api/divide
+
+And the payload should be:
+
+	{
+	"a":3,
+	"b":9
+	}
