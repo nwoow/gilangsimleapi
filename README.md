@@ -12,7 +12,7 @@ If you wish to run this code simple run this command to build image:
 	docker-compose build
 
 
-If you wish to run the code simple run:
+If you wish to run the code simply run:
 
 	docker-compose up
 
