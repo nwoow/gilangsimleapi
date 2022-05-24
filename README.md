@@ -7,7 +7,7 @@ After installing packages simply run this:
 
 # Run the code using Docker:
 
-If you wish to tun this code simple run this command to build image:
+If you wish to run this code simple run this command to build image:
 
 	docker-compose build
 
